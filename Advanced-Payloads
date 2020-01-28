@@ -1,3 +1,4 @@
+test+onfouus='alert(0)'id='xss'
 "><img src onerror=alert(1)> = *DOM XSS
 Function`alert\`xss\````
 "autofocus onfocus=alert(1)//
