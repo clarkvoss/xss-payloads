@@ -1,3 +1,4 @@
+test<iframe></textarea></iframe><iframe srcdoc="<img src onerror=alert(1)>">a
 <samp><script><section><img onerror="alert()" src />
 /javascript:alert%25281%2529/.source; :>
 <samp><script><section><img onerror="self['ale'+'rt']()" src />
